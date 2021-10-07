@@ -1,4 +1,6 @@
 # Blood-Donation-Status
+Dataset used : https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+
 # Summary
 Using the dataset your Neuroph library, I reserved 70% of my dataset for training and 30% for testing. Then I wrote the training and testing methods. I learned separately for each epoch in the training. Then I added the singleTest part. In this section, I gave the inputs entered for normalization as parameters to normalize. I created the graphics.
 
