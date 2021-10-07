@@ -1,9 +1,6 @@
 # Blood-Donation-Status
 # Summary
-Using the dataset I chose in the first assignment and your Neuroph library, I reserved 70% of my dataset for training and 30% for testing.
-Then I wrote the training and testing methods. I learned separately for each epoch in the training.
-Then I added the singleTest part. In this section, I gave the inputs entered for normalization as parameters to normalize.
-I created the graphics.
+Using the dataset your Neuroph library, I reserved 70% of my dataset for training and 30% for testing. Then I wrote the training and testing methods. I learned separately for each epoch in the training. Then I added the singleTest part. In this section, I gave the inputs entered for normalization as parameters to normalize. I created the graphics.
 
 # DEVELOPED SOFTWARE
 The data set examines whether people donate blood on the specified date according to certain criteria. When I first downloaded the dataset, it had Recency (months), Frequency (times), Monetary (c.c. blood) and result.
