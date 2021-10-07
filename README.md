@@ -60,7 +60,8 @@ If the output is 0, it does not give blood, if it is 1, it sends as blood.
 
 ![11_1](https://user-images.githubusercontent.com/61979226/136312291-1961a9f6-9ea8-48a6-b0f0-a3fbd7b2e262.png)
 
-![12](https://user-images.githubusercontent.com/61979226/136312297-280ad8c0-8912-40f6-9d84-eeb0b87332a8.png)
+![12_2](https://user-images.githubusercontent.com/61979226/136314078-f007e683-2c8f-4c21-83e8-b8229af72f3c.png)
+
 
 
 
